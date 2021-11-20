@@ -19,7 +19,7 @@
         </div>
       </nav>
       <div class="main-content-header">
-          <h2 class="search">About Us</h2>
+          <h2 class="search">About Us</h3>
              <div class="div2">
              <h3>Student Result Management System</h2>
              <p>This Software Application unbelievably unravels and quickens the result management system with unique templates by providing the administration a secure database system for storing, evaluating and publishing the test scores and grades of candidates online. The database likewise allows the student to observe and gander at the exam results on the web at whatever point necessary.</p>
